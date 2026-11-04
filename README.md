@@ -120,3 +120,6 @@ The registry file is kept up to date automatically:
 ## License
 
 This project is licensed under the MIT License, courtesy of [Marmelab](https://marmelab.com). See the [LICENSE.md](./LICENSE.md) file for details.
+
+
+Marmont Material copy of Atomic CRM, deployed to our own Supabase project.
