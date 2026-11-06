@@ -368,6 +368,30 @@
           "type": "registry:component"
         },
         {
+          "path": "src/components/atomic-crm/outreach/useOutreachData.ts",
+          "type": "registry:component"
+        },
+        {
+          "path": "src/components/atomic-crm/outreach/outreachLogic.ts",
+          "type": "registry:component"
+        },
+        {
+          "path": "src/components/atomic-crm/outreach/TestAddressesTab.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "src/components/atomic-crm/outreach/SendListTab.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "src/components/atomic-crm/outreach/OutreachPage.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "src/components/atomic-crm/outreach/ChaseTab.tsx",
+          "type": "registry:component"
+        },
+        {
           "path": "src/components/atomic-crm/notes/utils.ts",
           "type": "registry:component"
         },
